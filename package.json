@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/selenecota/clase-node2#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "print-shape": "^1.0.1"
   }
 }
